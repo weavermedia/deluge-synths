@@ -23,7 +23,7 @@ Use the naming system makes the most sense to you.
 ## Preset Notes
 
 ### Juno 60 - Factory Group A
-These presets were ported from the TAL U-NO-LX. Some are very close to the original (the simpler sounds) and others vary in accuracy. Feel free to tweak and send me inprovements!
+These presets were ported from the TAL U-NO-LX. Some are very close to the original (the simpler sounds) and others vary in accuracy. Feel free to tweak and send me improvements!
 - Some presets are missing (71, 72, 73, 75, 76) due to them using filter self-oscillation.
 - Some sound different because they use all 3 oscillator waveforms (Square/Saw/Sub).
 - Presets that use the Juno chorus are ported pre-chorus then Deluge chorus/reverb added.
