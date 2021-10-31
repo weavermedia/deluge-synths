@@ -2,8 +2,6 @@
 
 ### A collection of synth presets for the Synthstrom Deluge. These presets use the intermal oscillators only - no samples are used. Each preset is a simple XML file.
 
-[Watch a 6-minute demo video of the presets on YouTube](https://www.youtube.com/watch?v=EcqYMWde5bI)
-
 ## Installation
 1. [Download this repository as a zip file](https://github.com/weavermedia/deluge-synths/archive/refs/heads/main.zip)
 2. Unzip the contents
@@ -22,7 +20,9 @@ Use the naming system makes the most sense to you.
 
 ## Preset Notes
 
-### Juno 60 - Factory Group A
+### Roland Juno 60 - Factory Group A
+[Watch a 6-minute demo video of the presets on YouTube](https://www.youtube.com/watch?v=EcqYMWde5bI)
+
 These presets were ported from the TAL U-NO-LX. Some are very close to the original (the simpler sounds) and others vary in accuracy. Feel free to tweak and send me improvements!
 - Some presets are missing (71, 72, 73, 75, 76) due to them using filter self-oscillation.
 - Some sound different because they use all 3 oscillator waveforms (Square/Saw/Sub).
