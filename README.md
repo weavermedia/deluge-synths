@@ -54,3 +54,9 @@ ACCENT: For accented notes set the velocity higher than regular notes. Then use 
 The demo song `ACID.XML` includes 12 famous acid lines, each using a different preset. The copyright in the clips remains with the original owners and are for educational purposes only.
 
 **Note:** This is not an accuarate emulation of a real TB-303. The original has too many idiosyncrasies for that. But it does give you a very usable 303 sound, especially when automating the assigned parameters.
+
+## Changelog
+
+Oct 31st 2021 - Roland TB-303 presets and demo song added.
+
+Oct 23rd 2021 - Roland Juno-60 Factory Group A added.
