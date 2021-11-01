@@ -55,6 +55,14 @@ The demo song `ACID.XML` includes 12 famous acid lines, each using a different p
 
 **Note:** This is not an accuarate emulation of a real TB-303. The original has too many idiosyncrasies for that. But it does give you a very usable 303 sound, especially when automating the assigned parameters.
 
+## Support
+
+Everything here is supplied free of charge with no expectations but if you would like to support the creation of more sounds feel free to buy a track or two on my Bandcamp page: https://dannytaurus.bandcamp.com/
+
+## Contribute
+
+If you make improvements to the accuracy of these sounds I'm happy to merge them into this repo. Either submit a pull request or create an issue.
+
 ## Changelog
 
 Oct 31st 2021 - Roland TB-303 presets and demo song added.
