@@ -27,3 +27,30 @@ These presets were ported from the TAL U-NO-LX. Some are very close to the origi
 - Some presets are missing (71, 72, 73, 75, 76) due to them using filter self-oscillation.
 - Some sound different because they use all 3 oscillator waveforms (Square/Saw/Sub).
 - Presets that use the Juno chorus are ported pre-chorus then Deluge chorus/reverb added.
+
+### Roland TB-303
+[Watch a 1-minute video of the demo song on YouTube](https://www.youtube.com/watch?v=I-hyfTCrgoY)
+
+The Roland TB-303 has no presets so this is a collection of starting points to create your own. The essense of the 303 sound is movement, achieved by manipulating the filter and envelope controls.
+
+Envelope 1 is used for amplitude with fast attack, full sustain and short release. Envelope 2 controls the low-pass filter cutoff with independent control over the decay time.
+
+|303 Control|Deluge Parameter|Control|
+|------|------------|---------|
+|Waveform | Oscillator 1 Type (Square/Sawtooth)|Via menu or shortcut|
+|Tuning | Oscillator 1 Transpose|Via menu or shortcut|
+|Cut Off Freq | LPF Cutoff |Parameter 2 Upper (default)|
+|Resonance | LPF Resonance |Parameter 2 Lower (default)|
+|Env Mod | Envelope 2 -> LPF Cutoff |Parameter 7 Upper (custom)|
+|Decay | Envelope 2 Decay |Parameter 7 Lower (custom)|
+|Accent | Velocity -> LPF Cutoff |Parameter 8 Lower (custom)|
+
+Assign these parameters to an external MIDI controller for maximum tweakage.
+
+SLIDE: To get the characteristic slide effect extend the length of one note to the next. Be sure to slide between notes more than an octave apart to get the full effect. Legato (VOICE > POLY > LEGATO) and Portamento (VOICE > PORT > 10) are already assigned in the presets.
+
+ACCENT: For accented notes set the velocity higher than regular notes. Then use the Velocity -> LPF Cutoff modulation (assigned to paramter 8 lower) to control the accent strength.
+
+The demo song `ACID.XML` includes 12 famous acid lines, each using a different preset. The copyright in the clips remains with the original owners and are for educational purposes only.
+
+**Note:** This is not an accuarate emulation of a real TB-303. The original has too many idiosyncrasies for that. But it does give you a very usable 303 sound, especially when automating the assigned parameters.
