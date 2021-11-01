@@ -29,7 +29,7 @@ These presets were ported from the TAL U-NO-LX. Some are very close to the origi
 - Presets that use the Juno chorus are ported pre-chorus then Deluge chorus/reverb added.
 
 ### Roland TB-303
-[Watch a 1-minute video of the demo song on YouTube](https://www.youtube.com/watch?v=I-hyfTCrgoY)
+[Watch a 1-minute video of the demo song on YouTube](https://www.youtube.com/watch?v=PWHVqo6Fu2k)
 
 The Roland TB-303 has no presets so this is a collection of starting points to create your own. The essense of the 303 sound is movement, achieved by manipulating the filter and envelope controls.
 
