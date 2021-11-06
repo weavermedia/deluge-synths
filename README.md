@@ -1,12 +1,16 @@
 # Deluge Synth Presets
 
-### A collection of synth presets for the Synthstrom Deluge. These presets use the intermal oscillators only - no samples are used. Each preset is a simple XML file.
+**A collection of synth presets for the Synthstrom Deluge. Only internal oscillators used - no samples. Each preset is a simple XML file.**
+
+## Presets
+- Roland Juno-60 - Factory Bank A
+- Roland TB-303 - 15 starter synths + demo song
 
 ## Installation
 1. [Download this repository as a zip file](https://github.com/weavermedia/deluge-synths/archive/refs/heads/main.zip)
 2. Unzip the contents
 3. Optionally rename the required synth XML files (see below)
-3. Copy the XML files to the SYNTHS folder on your Deluge SD card
+4. Copy the XML files to the SYNTHS folder on your Deluge SD card
 
 **Note**: you do not have to copy entire folders of XML files. You can pick and choose any presets you like. This helps to keep your SD card SYNTHS folder light and preset browsing fast on the Deluge.
 
