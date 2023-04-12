@@ -1,6 +1,6 @@
 # Deluge Synth Presets
 
-** These synth presets are now hosted on [my Gumroad page](https://meatbeats.gumroad.com). This repo will not be updated with new sounds.**
+**These synth presets are now hosted on [my Gumroad page](https://meatbeats.gumroad.com). This repo will not be updated with new sounds.**
 
 A collection of synth presets for the Synthstrom Deluge. Only internal oscillators used - no samples. Each preset is a simple XML file.
 
